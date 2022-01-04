@@ -1,4 +1,5 @@
 # 纯C实现命令行魔塔游戏
+> 注意：由于C想要正确的在控制台输出中文，必须用gbk编码，而GitHub默认用的utf-8，所以注释会乱码，在你的本地运行的时候，一定注意用gbk编码！
 ![](https://img-blog.csdnimg.cn/e34cc404766940de88ae9222760dc96b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQ19ZQ0JYIFB5X1lZRFM=,size_20,color_FFFFFF,t_70,g_se,x_16)
 > 详细流程图：
 
