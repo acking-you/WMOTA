@@ -1,5 +1,8 @@
 # 纯C实现命令行魔塔游戏
-![](https://img-blog.csdnimg.cn/7b5871fe13f84223a53880a9e301e492.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQ19ZQ0JYIFB5X1lZRFM=,size_16,color_FFFFFF,t_70,g_se,x_16)
+![](https://img-blog.csdnimg.cn/e34cc404766940de88ae9222760dc96b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQ19ZQ0JYIFB5X1lZRFM=,size_20,color_FFFFFF,t_70,g_se,x_16)
+> 详细流程图：
+
+![](https://img-blog.csdnimg.cn/91b0a7b42e9348d58315d65b3547ddac.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAQ19ZQ0JYIFB5X1lZRFM=,size_20,color_FFFFFF,t_70,g_se,x_16)
 ## 关于
 这是一个仓促的数据结构课程设计，所以其实这个游戏的很多内容是没有做完的，但是基本的逻辑都已经完成了，接下来的添加怪物等过程，无非也就是重复劳作而已。
 
