@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BAT.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/BAT.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Base.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Base.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Door.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Door.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Fight.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GreenSlime.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GreenSlime.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Hero.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Hero.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Key.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Key.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Master.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Master.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Medicine.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Medicine.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MonMap.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/MonMap.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/RedSlime.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/RedSlime.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Scene.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Scene.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Skull.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Skull.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stone.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stone.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Transform.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Transform.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Weapon.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Weapon.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/color.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.c" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/print_qrcode.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/二维码.txt" charset="UTF-8" />
+  </component>
+</project>

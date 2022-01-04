@@ -1,0 +1,145 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc.exe: warning: '-mcpu=' is deprecated; use '-mtune=' or '-march=' instead
+gcc.exe: error: unrecognized command line option '--target=arm-arm-none-eabi'
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc.exe: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: D:/CLion Project/WMOTA/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f Makefile cmTC_fa074/fast && D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_fa074.dir\build.make CMakeFiles/cmTC_fa074.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/CLion Project/WMOTA/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fa074.dir/CMakeCCompilerABI.c.obj
+D:\Program_Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_fa074.dir\CMakeCCompilerABI.c.obj -c "C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCCompilerABI.c"
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_fa074.dir\build.make:77: CMakeFiles/cmTC_fa074.dir/CMakeCCompilerABI.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'D:/CLion Project/WMOTA/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_fa074/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/CLion Project/WMOTA/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f Makefile cmTC_817eb/fast && D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_817eb.dir\build.make CMakeFiles/cmTC_817eb.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/CLion Project/WMOTA/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_817eb.dir/testCCompiler.c.obj
+D:\Program_Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_817eb.dir\testCCompiler.c.obj -c "D:\CLion Project\WMOTA\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_817eb.dir\build.make:77: CMakeFiles/cmTC_817eb.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'D:/CLion Project/WMOTA/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_817eb/fast] Error 2
+
+
+

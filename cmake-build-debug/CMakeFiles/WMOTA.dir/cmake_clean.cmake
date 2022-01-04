@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/WMOTA.dir/BAT.c.obj"
+  "CMakeFiles/WMOTA.dir/BAT.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Base.c.obj"
+  "CMakeFiles/WMOTA.dir/Base.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Door.c.obj"
+  "CMakeFiles/WMOTA.dir/Door.c.obj.d"
+  "CMakeFiles/WMOTA.dir/GreenSlime.c.obj"
+  "CMakeFiles/WMOTA.dir/GreenSlime.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Hero.c.obj"
+  "CMakeFiles/WMOTA.dir/Hero.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Key.c.obj"
+  "CMakeFiles/WMOTA.dir/Key.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Master.c.obj"
+  "CMakeFiles/WMOTA.dir/Master.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Medicine.c.obj"
+  "CMakeFiles/WMOTA.dir/Medicine.c.obj.d"
+  "CMakeFiles/WMOTA.dir/MonMap.c.obj"
+  "CMakeFiles/WMOTA.dir/MonMap.c.obj.d"
+  "CMakeFiles/WMOTA.dir/RedSlime.c.obj"
+  "CMakeFiles/WMOTA.dir/RedSlime.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Scene.c.obj"
+  "CMakeFiles/WMOTA.dir/Scene.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Skull.c.obj"
+  "CMakeFiles/WMOTA.dir/Skull.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Stone.c.obj"
+  "CMakeFiles/WMOTA.dir/Stone.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Transform.c.obj"
+  "CMakeFiles/WMOTA.dir/Transform.c.obj.d"
+  "CMakeFiles/WMOTA.dir/Weapon.c.obj"
+  "CMakeFiles/WMOTA.dir/Weapon.c.obj.d"
+  "CMakeFiles/WMOTA.dir/main.c.obj"
+  "CMakeFiles/WMOTA.dir/main.c.obj.d"
+  "WMOTA.exe"
+  "WMOTA.exe.manifest"
+  "WMOTA.pdb"
+  "libWMOTA.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/WMOTA.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

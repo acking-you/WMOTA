@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="WMOTA"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/CLion Project/WMOTA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WMOTA">
+				<Option output="D:/CLion Project/WMOTA/cmake-build-debug/WMOTA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion Project/WMOTA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 WMOTA"/>
+					<CompileFile command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="WMOTA/fast">
+				<Option output="D:/CLion Project/WMOTA/cmake-build-debug/WMOTA.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/CLion Project/WMOTA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 WMOTA/fast"/>
+					<CompileFile command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/CLion Project/WMOTA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/CLion Project/WMOTA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Program_Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;D:/CLion Project/WMOTA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/CLion Project/WMOTA/BAT.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/BAT.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Base.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Base.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Door.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Door.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Fight.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/GreenSlime.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/GreenSlime.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Hero.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Hero.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Key.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Key.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Master.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Master.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Medicine.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Medicine.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/MonMap.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/MonMap.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/RedSlime.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/RedSlime.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Scene.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Scene.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Skull.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Skull.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Stone.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Stone.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Transform.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Transform.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Weapon.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/Weapon.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/color.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/main.c">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/print_qrcode.h">
+			<Option target="WMOTA"/>
+		</Unit>
+		<Unit filename="D:/CLion Project/WMOTA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
